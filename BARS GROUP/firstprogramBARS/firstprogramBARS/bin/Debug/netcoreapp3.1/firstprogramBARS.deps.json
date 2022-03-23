@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "firstprogramBARS/1.0.0": {
+        "runtime": {
+          "firstprogramBARS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "firstprogramBARS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
