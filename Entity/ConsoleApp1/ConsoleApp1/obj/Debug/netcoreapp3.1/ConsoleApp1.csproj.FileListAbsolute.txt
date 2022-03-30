@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\LENOVO\Desktop\BARS GROUP\Entity\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
